@@ -1,5 +1,5 @@
 # Labs_DPT_PlavinskayaElizaveta
-Labs DataProcessingTechnologies Plavinskaya Elizaveta
+Labs Data Processing Technologies Plavinskaya Elizaveta
 
 Гит репозиторий для лабораторных работ по предмету "Технологии обработки данных" 
 
